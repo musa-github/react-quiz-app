@@ -37,6 +37,6 @@ It correctly bundles React in production mode and optimizes the build for the be
 
 ## Contact
 
-Sumit Saha - [smabumusa98@gmail.com]
+Abu Musa - [smabumusa98@gmail.com]
 
 Project Link: [https://github.com/musa-github/react-quiz-app]
